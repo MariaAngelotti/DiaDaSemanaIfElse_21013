@@ -1,0 +1,13 @@
+C:\projetos\ams\1ano\2semestre\Tarefas\DiaDaSemanaIfElse\bin\Debug\netcoreapp3.1\DiaDaSemanaIfElse.exe
+C:\projetos\ams\1ano\2semestre\Tarefas\DiaDaSemanaIfElse\bin\Debug\netcoreapp3.1\DiaDaSemanaIfElse.deps.json
+C:\projetos\ams\1ano\2semestre\Tarefas\DiaDaSemanaIfElse\bin\Debug\netcoreapp3.1\DiaDaSemanaIfElse.runtimeconfig.json
+C:\projetos\ams\1ano\2semestre\Tarefas\DiaDaSemanaIfElse\bin\Debug\netcoreapp3.1\DiaDaSemanaIfElse.runtimeconfig.dev.json
+C:\projetos\ams\1ano\2semestre\Tarefas\DiaDaSemanaIfElse\bin\Debug\netcoreapp3.1\DiaDaSemanaIfElse.dll
+C:\projetos\ams\1ano\2semestre\Tarefas\DiaDaSemanaIfElse\bin\Debug\netcoreapp3.1\DiaDaSemanaIfElse.pdb
+C:\projetos\ams\1ano\2semestre\Tarefas\DiaDaSemanaIfElse\obj\Debug\netcoreapp3.1\DiaDaSemanaIfElse.csprojAssemblyReference.cache
+C:\projetos\ams\1ano\2semestre\Tarefas\DiaDaSemanaIfElse\obj\Debug\netcoreapp3.1\DiaDaSemanaIfElse.AssemblyInfoInputs.cache
+C:\projetos\ams\1ano\2semestre\Tarefas\DiaDaSemanaIfElse\obj\Debug\netcoreapp3.1\DiaDaSemanaIfElse.AssemblyInfo.cs
+C:\projetos\ams\1ano\2semestre\Tarefas\DiaDaSemanaIfElse\obj\Debug\netcoreapp3.1\DiaDaSemanaIfElse.csproj.CoreCompileInputs.cache
+C:\projetos\ams\1ano\2semestre\Tarefas\DiaDaSemanaIfElse\obj\Debug\netcoreapp3.1\DiaDaSemanaIfElse.dll
+C:\projetos\ams\1ano\2semestre\Tarefas\DiaDaSemanaIfElse\obj\Debug\netcoreapp3.1\DiaDaSemanaIfElse.pdb
+C:\projetos\ams\1ano\2semestre\Tarefas\DiaDaSemanaIfElse\obj\Debug\netcoreapp3.1\DiaDaSemanaIfElse.genruntimeconfig.cache
